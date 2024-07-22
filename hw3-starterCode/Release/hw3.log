@@ -1,0 +1,47 @@
+﻿  hw3.cpp
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(143,21): warning C4244: '=': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(196,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(200,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(238,80): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(261,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(355,35): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(356,35): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(357,35): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(456,61): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(456,47): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\hw3.cpp(456,33): warning C4244: 'argument': conversion from 'T' to 'unsigned char', possible loss of data
+          with
+          [
+              T=float
+          ]
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  0 of 373 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  hw3.vcxproj -> C:\GLP\hw3-starterCode-vs2019\hw3-starterCode\hw3-starterCode\Bin\Release\hw3.exe
